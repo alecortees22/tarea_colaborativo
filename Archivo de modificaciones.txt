@@ -1,2 +1,10 @@
 Este archivo será utilizado para emular modificaciones en el proyecto colaborativo.
+
 Alejandra Cortés
+
+Hannia Lomeli
+
+El repositorio remoto actualizado se puede encontrar en las url's
+
+https://github.com/alecortees22/tarea_colaborativo
+https://github.com/hannylomeli/tarea_colaborativo
